@@ -4,11 +4,14 @@ html {
 
 body {
     height: 100%;
-    
+    background-color: #6e727a;
+    color:white;
 }
 a {
     text-decoration: none;
 }
+a:visited { color: orange; }
+
 
 .main {
     height: 100%;
@@ -16,16 +19,21 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+    display:flex;
+    justify-content: center;
 }
 
 .header{ 
     display:flex;
     justify-content: center;
+    font-size: 40px;
 }
 .navbar{
     display: flex;
     justify-content:space-between ;
+    color: orange;
 }
+
 .social{ 
     display:flex;
     justify-content:space-around;
@@ -33,11 +41,28 @@ a {
 .gallery{ 
     display:flex; 
     justify-content:space-between;
+    height: 100%;
+}
+
+.thumbnail {
+    width: 30%;
 }
 .thumbnail-image{
-    display:flex;
-    justify-content:space-around;
-    width:100px;
-    height: 100px;
+    width: 100%;
+}
+.aboutMain{ 
+    font-family: 'Kaushan Script', cursive;
+}
 
+.footer {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+.copy {
+    position: fixed;
+    bottom: 0;
+    right 0;
+    
 }

@@ -32,15 +32,15 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ x] Use flexbox to center your heading. 
 - [x ] Use flexbox to format your navbar.
 - [ x] Use flexbox to format your footer.
-- [ ] Use flexbox to format your gallery page. 
-- [ ] Use flexbox to format your about page. 
+- [ x] Use flexbox to format your gallery page. 
+- [ x] Use flexbox to format your about page. 
 
 #### Wrap
-- [ ] Push your changes!
+- [x ] Push your changes!
 
 ## Day 3
 #### CSS
-- [ ] Using the box model properties, style your thumbnails on the gallery page. 
+- [ x] Using the box model properties, style your thumbnails on the gallery page. 
 
 #### Wrap
 - [ ] Push your changes!
